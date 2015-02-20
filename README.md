@@ -1,4 +1,6 @@
 # SpinObf
+
+[![Join the chat at https://gitter.im/Spinere/SpinObf-php-obfuscator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Spinere/SpinObf-php-obfuscator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 SpinObf Free Online PHP Obfuscate
 
 SpinObf Is A Free PHP Obfuscator It Helps Protecting Sensitive files from being readble,
